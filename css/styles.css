@@ -604,6 +604,12 @@ progress {
   height: auto;
 }
 
+.img-fluid2 {
+  max-width: 100%;
+  height: auto;
+  border : 1px solid #000000;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -7917,7 +7923,7 @@ textarea.form-control-lg {
 .pe-auto {
   pointer-events: auto !important;
 }
-
+rounded-circle
 .rounded {
   border-radius: 0.25rem !important;
 }
